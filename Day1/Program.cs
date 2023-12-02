@@ -13,12 +13,12 @@ namespace Day1
             // Part 1
             Console.WriteLine("\nBeginning Day 1 Part 1");
             Console.WriteLine("----------------------------------------------------------------");
-            Console.WriteLine($"Elf is carrying {day1.TotalCaloriesTopOne} calories.");
+            Console.WriteLine($"The sum of all calibration values is {day1.CalibrationValueSum}.");
 
             // Part 2
-            Console.WriteLine("\nBeginning Day 1 Part 2");
-            Console.WriteLine("----------------------------------------------------------------");
-            Console.WriteLine($"The best three elves are carrying {day1.TotalCaloriesTopThree} calories.");
+            //Console.WriteLine("\nBeginning Day 1 Part 2");
+            //Console.WriteLine("----------------------------------------------------------------");
+            //Console.WriteLine($"The best three elves are carrying {day1.LastDigit} calories.");
         }
     }
 }
