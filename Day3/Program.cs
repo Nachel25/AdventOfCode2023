@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace Day3
+﻿namespace Day3
 {
     class Program
     {
